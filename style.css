@@ -1,0 +1,15 @@
+.galary img{
+    width:100%;
+}
+h1{
+    background-color: cornsilk;
+   color: blue; 
+    font-size: 150%
+}
+ h2{
+        font-family:serif;
+        font-style: oblique;
+        color: aqua;
+     content: inherit
+    }
+    
